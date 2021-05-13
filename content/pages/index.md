@@ -455,11 +455,9 @@ sections:
 
           **Time:** 9:30 AM to 3:30 PM
       - title: Follow Us
-        content: |-
-          [Youtube](https://www.youtube.com/)<br/>
-          [Medium](https://medium.com/)<br/>
-          [Facebook](https://www.facebook.com/)<br/>
-          [Twitter](https://twitter.com/home)<br/>
+        content: >
+          ######
+          [Youtube](https://www.youtube.com/)&#xA;[Medium](https://medium.com/)&#xA;[Facebook](https://www.facebook.com/)&#xA;[Twitter](https://twitter.com/home)
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
