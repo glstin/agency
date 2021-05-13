@@ -16,7 +16,7 @@ sections:
     background_image: images/0a081418c47caea923a78eb358efea02.jpg
     background_image_opacity: 15
     background_image_size: cover
-    media_width: fifty
+    media_width: sixty
   - type: grid_section
     grid_items:
       - title: 2 Days
